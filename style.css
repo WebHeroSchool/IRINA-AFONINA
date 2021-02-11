@@ -1,0 +1,53 @@
+.main-content__title {
+ font: 800 45px/55px 'gilroyextrabold', arial, helvetica, "sans-serif";
+}
+
+.main-content__subtitle {
+ font: 800 30px/37px 'gilroyextrabold', arial, helvetica, "sans-serif";
+}
+
+.main-content__description {
+	font: 300 20px/23px 'gilroylight', arial, helvetica, "sans-serif";
+}
+
+.main-content__button {
+ font: 900 20px/24px 'montserratblack', arial, helvetica, "sans-serif";
+
+}
+
+.main-structure__title, .main-structure__subtitle {
+ font: 800 40px/49px 'gilroyextrabold', arial, helvetica, "sans-serif";
+}
+
+.main-structure__description {
+ font: 300 30px/35px 'gilroylight', arial, helvetica, "sans-serif";
+}
+
+
+.container__title {
+ font: 800 30px/37px 'gilroyextrabold', arial, helvetica, "sans-serif";
+
+}
+
+
+.container__description {
+	font: 800 20px/25px 'gilroyextrabold', arial, helvetica, "sans-serif";
+}
+
+
+.main-container__title {
+ font: 800 40px/49px 'gilroyextrabold', arial, helvetica, "sans-serif";
+}
+
+.form-individual__textfield1, .form-individual__textfield2, .form-individual__button {
+ font: 300 20px/23px 'gilroylight', arial, helvetica, "sans-serif";
+}
+
+.form-individual__button {
+ font: 900 20px/24px 'montserratblack', arial, helvetica, "sans-serif";
+}
+
+.footer {
+ font: normal 15px/18px 'robotoregular', arial, helvetica, "sans-serif";
+}
+
