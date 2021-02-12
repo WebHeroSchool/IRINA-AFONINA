@@ -10,14 +10,14 @@ body {
 
 .header {
 	padding: 60px 9% 0px 9%;
-	margin-bottom: 80px;
+	margin-bottom: 60px;
 }
 
 .main-content {
 	margin: 0 9%;
 	width: 82%;
 	height: 445px;
-    padding-top: 30px;
+    padding-top: 50px;
 	background: right no-repeat url('img/img.svg');
 }
 
@@ -25,7 +25,7 @@ body {
 	color: white;
 	padding-right: 39%;
 	margin: 20px 0 30px 0;
-	font: 800 45px/55px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: normal 800 45px/55px 'gilroyextrabold', arial, helvetica, sans-serif;
 }
 
 .main-content__subtitle {
@@ -33,7 +33,7 @@ body {
 	padding-right: 60%;
 	padding-bottom: 10px;
 	margin: 0;
-	font: 800 30px/37px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: normal 800 30px/37px 'gilroyextrabold', arial, helvetica, sans-serif;
 }
 
 .main-content__description {
@@ -41,7 +41,7 @@ body {
 	padding-right: 60%;
 	padding-bottom: 30px;
 	margin: 0;
-	font: 300 20px/23px 'gilroylight', arial, helvetica, sans-serif;
+	font: normal 300 20px/23px 'gilroylight', arial, helvetica, sans-serif;
 }
 
 .main-content__button {
@@ -49,16 +49,16 @@ display: inline-block;
 font: 900 20px/24px 'montserratblack', arial, helvetica, "sans-serif";
 background: #FFCC33;
 color: #3030C1;
-padding: 15px 23px;
+padding: 18px 25px;
 text-decoration: none;
 }
 
 .main-structure__title, .main-structure__subtitle {
- font: 800 40px/49px 'gilroyextrabold', arial, helvetica, "sans-serif";
+ font: normal 800 40px/49px 'gilroyextrabold', arial, helvetica, "sans-serif";
 }
 
 .main-structure__description {
- font: 300 30px/35px 'gilroylight', arial, helvetica, "sans-serif";
+ font: normal 300 30px/35px 'gilroylight', arial, helvetica, "sans-serif";
 }
 
 
@@ -89,3 +89,20 @@ text-decoration: none;
  font: normal 15px/18px 'robotoregular', arial, helvetica, "sans-serif";
 }
 
+@media	(max-width: 1024px) {
+ .main-content {
+	background: right/50% no-repeat url('img/img.svg');
+ }
+
+ .main-content__title {
+	font: 800 30px/35px 'gilroyextrabold', arial, helvetica, sans-serif;
+ }
+
+ .main-content__subtitle {
+ 	font: 800 25px/27px 'gilroyextrabold', arial, helvetica, sans-serif;
+ }
+
+ .main-content__description {
+	font: 300 15px/20px 'gilroylight', arial, helvetica, sans-serif;
+ }
+}
