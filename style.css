@@ -89,7 +89,7 @@ text-decoration: none;
  font: normal 15px/18px 'robotoregular', arial, helvetica, "sans-serif";
 }
 
-.main-structure__title, .main-structure__subtitle {
+.main-structure__title {
 	display: flex;
 	justify-content: center;
 	font: 500 40px/49px 'gilroyextrabold', arial, helvetica, sans-serif;
@@ -97,25 +97,37 @@ text-decoration: none;
 	margin-top: 53px;
 }
 
+.main-structure__subtitle {
+	display: flex;
+	justify-content: center;
+	font: 500 40px/49px 'gilroyextrabold', arial, helvetica, sans-serif;
+	color: #3A3A3A;
+	margin: 0;
+}
+
 .main-structure__description {
 	display:flex;
 	justify-content: center;
 	text-align: center;
-	padding:0 15%;
+	padding:0 30px 0 47px;
 	font: 300 30px/35px 'gilroylight', arial, helvetica, sans-serif;
 }
+
+.main-structure__p1 {
+ 	display: none;
+ }
 
 .container {
 	display: flex;
 	justify-content: space-around;
 	text-align: center;
 	padding: 0 120px;
-	margin-bottom: 60px;
+	margin-bottom: 50px;
 }
 
 .col-1, .col-2, .col-3 {
 	width: 300px;
-	height: 280px;
+	height: 290px;;
 	/*border: 2px solid grey;
 	padding-top: 60px;*/
 	margin: 0 10px;
@@ -167,12 +179,16 @@ text-decoration: none;
 	background: #F0FBFF;
 }
 
+.main-container__p {
+	display: none;
+}
+
 .main-container__title {
 	display: flex;
 	font: 500 40px/49px 'gilroyextrabold', arial, helvetica, sans-serif;
 	color: #3A3A3A;
 	justify-content: center;
-	padding-top: 95px;
+	padding-top: 98px;
 	margin-bottom: 50px;
 }
 
@@ -295,6 +311,13 @@ text-decoration: none;
  .footer {
  	height: 65px;
  }
+}
+
+@media (max-width: 768px) {
+ 	.container {
+ 		padding: 0 10px;
+ 	}
+ }
 
 @media (max-width: 375px) {
 	.wrapper {
@@ -359,9 +382,13 @@ text-decoration: none;
  	margin-bottom: 23px;
  } 
 
+ .main-structure__p1 {
+ 	display: block;
+ }
+
  .main-structure__description {
     font: 300 18px/21px 'gilroylight', arial, helvetica, sans-serif;
-    padding: 0 13%;
+    padding: 0 9%;
     margin-bottom: 54px;
  }
  .container {
@@ -371,6 +398,9 @@ text-decoration: none;
  }
  .container img {
  	height: 52%;
+ }
+ .main-container__p {
+ 	display: block;
  }
 
  .col-1, .col-3 {
