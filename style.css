@@ -366,7 +366,7 @@ text-decoration: none;
  }
  .container {
  	display: block;
- 	padding: 0 20px;
+ 	padding: 0 50px;
  	margin-bottom: 47px;
  }
  .container img {
@@ -453,7 +453,7 @@ text-decoration: none;
  	 }
 
  	 .container {
- 	 	padding: 0 50px;
+ 	 	padding: 0 20px;
  	 }
 } 
 
