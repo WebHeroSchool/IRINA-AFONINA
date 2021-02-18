@@ -25,7 +25,7 @@ body {
 	color: white;
 	padding-right: 47%;
 	margin: 20px 0 32px 0;
-	font: normal 500 45px/55px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: normal 500 45px/55px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 }
 
 .main-content__subtitle {
@@ -33,7 +33,7 @@ body {
 	padding-right: 60%;
 	padding-bottom: 10px;
 	margin: 0;
-	font: normal 500 30px/37px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: normal 500 30px/37px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 }
 
 .main-content__description {
@@ -62,7 +62,7 @@ body {
 .main-structure__title {
 	display: flex;
 	justify-content: center;
-	font: 500 40px/49px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 40px/49px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 	color: #3A3A3A;
 	margin-top: 53px;
 }
@@ -70,7 +70,7 @@ body {
 .main-structure__subtitle {
 	display: flex;
 	justify-content: center;
-	font: 500 40px/49px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 40px/49px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 	color: #3A3A3A;
 	margin: 0;
 }
@@ -114,25 +114,25 @@ body {
 }
 
 .container__title1 {
-	font: 300 30px/37px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 300 30px/37px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 	color: #3030C1;
 	margin: 21px 0 25px 0;
 }
 
 .container__description1, .container__description3 {
-	font: 500 20px/25px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 20px/25px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 	color: #3A3A3A;
 	padding: 0 20px;
 }
 
 .container__title2 {
-	font: 300 30px/37px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 300 30px/37px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 	color: #3030C1;
 	margin: 21px 0 12px 0;
 }
 
 .container__description2 {
-	font: 500 20px/25px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 20px/25px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 	color: #3A3A3A;
 	margin: 0;
 	padding: 0 30px;
@@ -151,7 +151,7 @@ body {
 
 .main-container__title {
 	display: flex;
-	font: 500 40px/49px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 40px/49px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
 	color: #3A3A3A;
 	justify-content: center;
 	padding-top: 98px;
@@ -215,11 +215,11 @@ body {
 
 @media	(max-width: 1024px) {
  .main-content__title {
-	font: 800 30px/35px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 800 30px/35px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  .main-content__subtitle {
- 	font: 800 25px/27px 'gilroyextrabold', arial, helvetica, sans-serif;
+ 	font: 800 25px/27px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  .main-content__description {
@@ -227,7 +227,7 @@ body {
  }
 
  .main-structure__title, .main-structure__subtitle {
-	font: 500 35px/40px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 35px/40px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  .main-structure__description {
@@ -249,22 +249,22 @@ body {
  }
 
  .container__title1 {
-	font: 300 20px/25px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 300 20px/25px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  .container__description1, .container__description3 {
-	font: 500 13px/20px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 13px/20px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  .container__title2 {
-	font: 300 20px/25px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 300 20px/25px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  .container__description2 {
-	font: 500 13px/20px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 13px/20px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
  .main-container__title {
-	font: 500 25px/30px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: 500 25px/30px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  .form-individual__textfield1, .form-individual__textfield2, .form-individual__button {
@@ -332,7 +332,7 @@ body {
 	color: white;
 	padding-right: 16%;
 	margin: 20px 0 25px 0;
-	font: normal 500 25px/31px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: normal 500 25px/31px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  span {
@@ -344,7 +344,7 @@ body {
 	padding-right: 0;
 	padding-bottom: 2px;
 	margin: 0;
-	font: normal 500 20px/25px 'gilroyextrabold', arial, helvetica, sans-serif;
+	font: normal 500 20px/25px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  }
 
  .main-content__description {
@@ -405,11 +405,11 @@ body {
  }
 
  .container__title1 {
-    font: 300 20px/25px 'gilroyextrabold', arial, helvetica, sans-serif;
+    font: 300 20px/25px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
     margin: 9px 0 11px 0;
  }
  .container__description1 {
-    font: 500 10px/11px 'gilroyextrabold', arial, helvetica, sans-serif;
+    font: 500 10px/11px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
     padding: 6px 20%;
  }
 
@@ -417,12 +417,12 @@ body {
  	margin: 10px 0 8px 0;
  }
  .container__description2 {
- 	font: 500 10px/12px 'gilroyextrabold', arial, helvetica, sans-serif;
+ 	font: 500 10px/12px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
  	padding: 0 60px 0 59px;
  }
 
  .container__description3 {
-    font: 10px/12px 'gilroyextrabold', arial, helvetica, sans-serif;
+    font: 10px/12px 'Gilroy-Extrabold', arial, helvetica, sans-serif;
     padding: 5px 40px 0 36px;
  }
 
