@@ -195,13 +195,13 @@ body {
 	.container {
 		padding: 0 10px;
 	}
+
+	.main-content {
+	background: right/50% no-repeat url('img/img.svg');
+}
 }
 
 @media	(max-width: 1024px) {
- .main-content {
-	background: right/50% no-repeat url('img/img.svg');
- }
-
  .main-content__title {
 	font: 800 30px/35px 'gilroyextrabold', arial, helvetica, sans-serif;
  }
